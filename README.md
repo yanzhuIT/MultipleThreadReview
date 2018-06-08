@@ -1,2 +1,2 @@
 # MultipleThreadReview
-multiple thread
+- Thread class
